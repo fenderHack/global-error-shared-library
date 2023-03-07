@@ -2,6 +2,7 @@
 # Java defaults (https://github.com/github/gitignore/blob/master/Java.gitignore) #
 # ------------------------------------------------------------------------------ #
 *.class
+*.wev
 
 # Package Files #
 *.jar
@@ -46,3 +47,16 @@ target/
 .mule/**/*
 .DS_Store
 velocity.log
+
+Fichier_A_Ignorer.txt
+Fichier_A_Ignorer2.txt
+*.tmp
+*.temp
+*.zip
+/target
+/setting
+/settings
+*.setting
+*.settings
+*.config
+
